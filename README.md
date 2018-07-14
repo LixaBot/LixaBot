@@ -1,0 +1,2 @@
+# LixaBot
+Official LixaDiscordBot Website!
